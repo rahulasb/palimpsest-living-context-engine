@@ -29,7 +29,7 @@ export default function LandingPage() {
             </div>
 
             {/* Sign In Button */}
-            <Link href="/login" className="btn btn-secondary">
+            <Link href="/login" className="btn btn-secondary px-8 min-w-[120px] whitespace-nowrap">
               Sign In
             </Link>
           </div>
